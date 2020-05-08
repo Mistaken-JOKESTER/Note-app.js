@@ -1,7 +1,7 @@
 # Note-app.js
-Notes app created during learning java script
+Notes app created using learning java script
 #######################################
-Created using java scrip while learning node
+         while learning node
 ######################################
 
 ********Before running install these npm Packages******
